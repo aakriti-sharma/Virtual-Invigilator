@@ -37,7 +37,7 @@
 <ul>
 <li>Open git bash
 <li>Go to the directory you want to store the project in via cd command
-<li>`git clone https://github.com/ShabarishRamaswamy/unsupervised-tests`
+<li>`git clone https://github.com/aakriti-sharma/Virtual-Invigilator`
 <li>Open node.js command prompt
 <li>Go to the directory where we cloned the repository
 <li>`npm install`
